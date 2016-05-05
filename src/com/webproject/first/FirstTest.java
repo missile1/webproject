@@ -6,6 +6,7 @@ public class FirstTest {
 		// TODO Auto-generated constructor stub
 		System.out.println("1");
 		System.out.println("2");
+		System.out.println("3");
 	}
 
 }
